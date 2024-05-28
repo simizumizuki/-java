@@ -11,4 +11,4 @@ public class DisplayFace extends MyFrame{
 		fillRect(x2,y2+160,150,10);
 	}
 
-}
+} 
